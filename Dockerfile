@@ -1,5 +1,4 @@
-#FROM bzon/centos-jenkins:latest
-FROM centosjenkins_master
+FROM bzon/centos-jenkins:latest
 
 MAINTAINER John Bryan Sazon
 
